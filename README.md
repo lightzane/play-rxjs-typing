@@ -9,7 +9,7 @@ Just playing with RxJS and made a typing animation (sort of)
 https://lightzane.github.io/play-rxjs-typing/
 
 // With Pause 10 seconds between each line
-https://lightzane.github.io/play-rxjs-typing/?pause=10
+https://lightzane.github.io/play-rxjs-typing/#/?pause=10
 ```
 
 See demo: https://lightzane.github.io/play-rxjs-typing/
